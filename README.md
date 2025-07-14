@@ -1,4 +1,6 @@
-### IELTS-hw :
+### IELTS-hw 
+
+### Reading
 
 ` First section `  12/12
 
@@ -33,3 +35,44 @@
 ### Overall :
                                                                 8.5
 
+
+### Listening :
+
+` First section `  10/10
+
+
+
+` Second section `  8/10
+
+
+
+
+` Third section `  9/10
+
+
+
+` Fourth section `  8/10
+
+
+
+### Results :
+
+```
+` First section ` 10/10
+```
+
+```
+` Second section ` 8/10
+```
+
+```
+` Third section ` 9/10
+```
+
+```
+` Fourth section ` 8/10
+```
+
+
+### Overall :
+                                                                8.0
